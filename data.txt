@@ -1,1 +1,1 @@
-{"f6d1ea31-1dd4-4e22-ba06-2992ba1ba36c": {"password": "93315", "balance": 0}, "7591ee03-6eb9-4a93-a86f-48b2c1b52a03": {"password": "15", "balance": 0}}
+{"3eb8319f-4336-4b16-86ba-bbbdd25738d6": {"balance": 99999999999, "uid": "3eb8319f-4336-4b16-86ba-bbbdd25738d6", "password": "aelkhjae"}, "068105cf-3433-401b-a73d-ecfbff634dd3": {"balance": 0, "uid": "068105cf-3433-401b-a73d-ecfbff634dd3", "password": "lkjhk"}}
